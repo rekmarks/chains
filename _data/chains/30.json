@@ -15,5 +15,6 @@
   "infoURL": "https://rsk.co",
   "shortName": "rsk",
   "chainId": 30,
-  "networkId": 30
+  "networkId": 30,
+  "hexChainId": "0x1e"
 }

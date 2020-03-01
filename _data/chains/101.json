@@ -15,5 +15,6 @@
   "shortName": "eti",
   "chainId": 101,
   "networkId": 1,
-  "slip44": 464
+  "slip44": 464,
+  "hexChainId": "0x65"
 }

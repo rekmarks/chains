@@ -16,5 +16,6 @@
   "infoURL": "https://athereum.ava.network",
   "shortName": "ath",
   "chainId": 43110,
-  "networkId": 43110
+  "networkId": 43110,
+  "hexChainId": "0xa866"
 }

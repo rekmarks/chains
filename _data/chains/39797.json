@@ -15,5 +15,6 @@
   "shortName": "nrg",
   "chainId": 39797,
   "networkId": 39797,
-  "slip44": 39797
+  "slip44": 39797,
+  "hexChainId": "0x9b75"
 }

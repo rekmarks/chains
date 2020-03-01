@@ -15,5 +15,6 @@
   "shortName": "etc",
   "chainId": 61,
   "networkId": 1,
-  "slip44": 61
+  "slip44": 61,
+  "hexChainId": "0x3d"
 }

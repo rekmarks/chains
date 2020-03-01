@@ -14,5 +14,6 @@
   "infoURL": "https://metadium.com",
   "shortName": "kal",
   "chainId": 12,
-  "networkId": 12
+  "networkId": 12,
+  "hexChainId": "0xc"
 }

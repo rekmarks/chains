@@ -12,5 +12,6 @@
   "infoURL": "https://ethersocial.org",
   "shortName": "tubq",
   "chainId": 9,
-  "networkId": 2
+  "networkId": 2,
+  "hexChainId": "0x9"
 }

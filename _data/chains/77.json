@@ -16,5 +16,6 @@
   "infoURL": "https://poa.network",
   "shortName": "poa",
   "chainId": 77,
-  "networkId": 77
+  "networkId": 77,
+  "hexChainId": "0x4d"
 }

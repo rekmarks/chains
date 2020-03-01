@@ -15,5 +15,6 @@
   "shortName": "xdai",
   "chainId": 100,
   "networkId": 100,
-  "slip44": 700
+  "slip44": 700,
+  "hexChainId": "0x64"
 }

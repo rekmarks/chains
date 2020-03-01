@@ -16,5 +16,6 @@
   "infoURL": "https://thundercore.com",
   "shortName": "TT",
   "chainId": 108,
-  "networkId": 108
+  "networkId": 108,
+  "hexChainId": "0x6c"
 }

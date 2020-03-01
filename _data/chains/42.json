@@ -17,5 +17,6 @@
   "infoURL": "https://kovan-testnet.github.io/website",
   "shortName": "kov",
   "chainId": 42,
-  "networkId": 42
+  "networkId": 42,
+  "hexChainId": "0x2a"
 }

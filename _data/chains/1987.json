@@ -15,5 +15,6 @@
   "shortName": "egem",
   "chainId": 1987,
   "networkId": 1987,
-  "slip44": 1987
+  "slip44": 1987,
+  "hexChainId": "0x7c3"
 }

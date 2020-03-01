@@ -7,7 +7,7 @@
     "https://app.freighttrust.net/ftn/${API_KEY}"
   ],
   "faucets": [
-      "http://faucet.freight.sh"
+    "http://faucet.freight.sh"
   ],
   "nativeCurrency": {
     "name": "Freight Trust Native",
@@ -17,5 +17,6 @@
   "infoURL": "https://freighttrust.com",
   "shortName": "ftn",
   "chainId": 211,
-  "networkId": 0
+  "networkId": 0,
+  "hexChainId": "0xd3"
 }

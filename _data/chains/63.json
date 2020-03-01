@@ -12,5 +12,6 @@
   "infoURL": "https://github.com/eth-classic/mordor/",
   "shortName": "metc",
   "chainId": 63,
-  "networkId": 7
+  "networkId": 7,
+  "hexChainId": "0x3f"
 }

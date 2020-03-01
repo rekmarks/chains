@@ -15,5 +15,6 @@
   "shortName": "exp",
   "chainId": 2,
   "networkId": 1,
-  "slip44": 40
+  "slip44": 40,
+  "hexChainId": "0x2"
 }

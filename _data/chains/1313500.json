@@ -14,5 +14,6 @@
   "infoURL": "https://xerom.org",
   "shortName": "xero",
   "chainId": 1313500,
-  "networkId": 1313500
+  "networkId": 1313500,
+  "hexChainId": "0x140adc"
 }
